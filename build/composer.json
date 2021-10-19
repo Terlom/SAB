@@ -1,0 +1,7 @@
+{
+    "require": {
+        "pear/mail": "^1.4",
+        "pear/net_smtp": "^1.7",
+        "pear/mail_mime": "^1.10"
+    }
+}
