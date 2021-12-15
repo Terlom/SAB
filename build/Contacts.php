@@ -6,9 +6,9 @@
                 <div class="contacts__info left">
                     <h1>Contact Us</h1>
                     <form action="" method="post" class="callback_form">
-                    <div class="input-row"><input type="text" name="name" placeholder="Your name"></div>
-                    <div class="input-row"><input type="email" name="email" placeholder="Your email address"></div>
-                    <div class="input-row"><input type="tel" name="tel" placeholder="Your phone number"></div>
+                    <div class="input-row"><input type="text" name="name" placeholder="Your name" required></div>
+                    <div class="input-row"><input type="email" name="email" placeholder="Your email address" required></div>
+                    <div class="input-row"><input type="tel" name="tel" placeholder="Your phone number" required></div>
                     <button>Call me back!</button>
                     </form>
                 </div>
